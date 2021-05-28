@@ -1,0 +1,17 @@
+{
+	"seatbid": [{
+		"bid": [{
+			"id": "95",
+			"price": 0.1814,
+			"crid": "123",
+			"impid": "1",
+			"ext": {
+				"external-id": 132,
+				"priority": 1,
+				"assetList": {"title":{"123":1},"images":{"124":5, "125":4},"data":{"127":3, "128":2}}
+			}
+		}]
+	}],
+	"id": "Wfx9dQAAQ4AKd4xIPwMc8w",
+	"cur": "USD"
+}
